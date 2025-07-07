@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Bhatiya</h1>
-<h2 🚀 Data & Power BI Enthusiast | 📊 Python Explorer | 💻 Aspiring Developer</h2>
+<h2 align="center">🚀 Data & Power BI Enthusiast | 📊 Python Explorer | 💻 Aspiring Developer</h2>
 <h3 align="center">Welcome to my GitHub! I'm passionate about turning data into powerful insights and building clean, meaningful dashboards and tools.</h3>
 
 🔧 Tech Stack
